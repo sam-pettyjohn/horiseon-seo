@@ -47,6 +47,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* HEADER END */
 
 /* HERO */
 .hero {
@@ -57,6 +58,7 @@ a {
     background-size: cover;
     background-position: center;
 }
+/* HERO END */
 
 /* CONTENT */
 .float-left {
@@ -128,6 +130,7 @@ a {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* CONTENT END */
 
 /* BENEFITS */
 .benefits {
@@ -200,6 +203,8 @@ a {
     margin: 10px auto;
     max-width: 150px;
 }
+/* BENEFITS END */
+
 
 /* FOOTER */
 footer {
@@ -212,3 +217,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* FOOTER END */
