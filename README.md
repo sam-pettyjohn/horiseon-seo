@@ -1,6 +1,6 @@
 # Horiseon Code Refactor
 
-Marketing Agecy wants a codebase that follows accessibility standards for the site to be optimized for seach engines. Only requested changes for "desktop" layout.
+Marketing Agecy wants a codebase that follows accessibility standards for the site to be optimized for search engines. Only requested changes for "desktop" layout.
 
 The following source code adjustments have been made:
 
